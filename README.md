@@ -1,1 +1,1 @@
-# react_repo
+# react_practice_repo
